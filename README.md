@@ -79,6 +79,6 @@ View the full analysis & Python implementation and outputs: [Amazon_Funnel_Analy
 
 6\. Strategic Recommendations       
 (1) Cart Abandonment Recovery: Address the 70.11% drop-off at the Purchases stage by streamlining checkout UX and launching automated cart abandonment email campaigns, unlocking an estimated $2,766,724.01 in potential revenue recovery.       
-(2) Budget Optimization: Reallocate marketing spend toward high-ROI channels, prioritizing Sponsored Brands (11.10% CVR) and Sponsored Products.       
+(2) Budget Optimization: Reallocate marketing spend toward high-ROI channels, prioritizing Sponsored Brands (11.10% CVR) and Sponsored Products(10.45% CVR).       
 (3) Regional Strategy Replication: Benchmark and replicate successful promotional strategies from Northern Ireland (11.26% CVR) across lower-performing markets such as England (10.26% CVR).        
 (4) Category Promotion: Increase homepage visibility and ad placements for top-converting categories like HomeDecor (11.85% CVR) and Bedding (11.35% CVR).           
