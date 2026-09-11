@@ -1,7 +1,7 @@
 <h1 align="center">E-commerce Funnel Analysis</h1>
 
 1. Project Introduction                 
-An end-to-end e-commerce funnel analytics project that uses Python to analyze Amazon user behavior data, track stage-to-stage session drop-offs, analyze multi-dimensional drop-off drivers, and deliver strategic recommendations to boost conversion rates and sales.
+An end-to-end e-commerce funnel analytics project that uses Python to analyze Amazon user behavior data, track stage-to-stage session drop-offs, analyze multi-dimensional drop-off drivers, and deliver strategic recommendations to boost conversion rates and sales. Adapted from an Indian e-commerce case study, with INR retained and selected variables adapted to a UK-oriented context.
 
 2. Executive Summary & Key Metrics
 Analytic overview across a customer interaction base of 10,000 sessions (21,676 event records) during 2026-07-15 to 2026-08-14:              
