@@ -8,8 +8,9 @@ Analytic overview across a customer interaction base of 10,000 sessions (21,676 
 1,063 Total Orders | 10.63% Overall Conversion Rate | $11,983.62 Total Revenue | $11.27 Average Order Value (AOV).        
 (2) Primary Funnel Bottlenecks:       
 The Purchases stage experienced the highest drop-off rate (69.76% drop-off from Basket Adds to Purchases overall), representing significant cart abandonment across the user journey.
- <img width="1043" height="421" alt="截屏2026-09-06 00 41 33" src="https://github.com/user-attachments/assets/070e23db-eed2-4747-a522-b951effd1b5c" />.       
-This pattern also occurs across each segmented dimension (channels, devices, regions, and product categories).        
+ <img width="1043" height="421" alt="截屏2026-09-06 00 41 33" src="https://github.com/user-attachments/assets/070e23db-eed2-4747-a522-b951effd1b5c" />                  
+This pattern also occurs across each segmented dimension (channels, devices, regions, and product categories).
+             
 (3) Performance Highlights:       
     <table border="0">
   <tr>
@@ -45,7 +46,7 @@ This pattern also occurs across each segmented dimension (channels, devices, reg
         
 3\. Pipeline Architecture & Tech Stack           
 [ Session Aggregation (Pandas) ] ──> [ Funnel & KPI Modeling ] ──> [ Multi-Dimensional Analysis ] ──> [ Interactive Visualization & Insights ]             
-(1) Data Preparation & Data Cleaning: Python (Pandas, Numpy, Datetime)                 
+(1) Data Cleaning: Python (Pandas, Numpy, Datetime)                 
 (2) Behavioral & Funnel Analytics: Python (Pandas, Aggregation, Time-series modeling)               
 (3) Data Visualization: Python (Matplotlib, Seaborn, Plotly), Power BI.                  
 
