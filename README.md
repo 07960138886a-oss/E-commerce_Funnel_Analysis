@@ -44,7 +44,7 @@ This pattern also occurs across each segmented dimension (channels, devices, reg
 
         
 3\. Pipeline Architecture & Tech Stack           
-[ Raw Data Generation ] ──> [ Session Aggregation (Pandas) ] ──> [ Funnel & KPI Modeling ] ──> [ Multi-Dimensional Analysis ] ──> [ Interactive Visualization & Insights ]             
+[ Session Aggregation (Pandas) ] ──> [ Funnel & KPI Modeling ] ──> [ Multi-Dimensional Analysis ] ──> [ Interactive Visualization & Insights ]             
 (1) Data Preparation & Data Cleaning: Python (Pandas, Numpy, Datetime)                 
 (2) Behavioral & Funnel Analytics: Python (Pandas, Aggregation, Time-series modeling)               
 (3) Data Visualization: Python (Matplotlib, Seaborn, Plotly), Power BI.                  
@@ -68,8 +68,7 @@ This pattern also occurs across each segmented dimension (channels, devices, reg
  
 
 5\. Python Code & Analytical Implementation           
-(1) Synthetic Data Generation & Data Cleaning         
-Generated 10,000 user session records using Faker with custom event conditional probabilities.       
+(1) Data Cleaning              
 Data quality checks, timestamp transformations, and duration calculations were executed seamlessly.       
 View simulated raw dataset: [amazon_funnel_analysis_data.csv](./amazon_funnel_analysis_data.csv).       
 (2) Session-Level Aggregation & Multi-Dimensional EDA         
