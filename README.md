@@ -1,12 +1,11 @@
 <h1 align="center">E-commerce Funnel Analysis</h1>
 
 1. Project Introduction                 
-An end-to-end e-commerce funnel analytics project that uses Python to analyze Amazon user behavior data, track stage-to-stage session drop-offs, analyze multi-dimensional drop-off drivers, and deliver strategic recommendations to boost conversion rates and sales. Adapted from an Indian e-commerce case study, with INR retained and selected variables adapted to a UK-oriented context.
-
+An end-to-end e-commerce funnel analytics project that uses Python to analyze Amazon user behavior data, track stage-to-stage session drop-offs, analyze multi-dimensional drop-off drivers, and deliver strategic recommendations to boost conversion rates and sales.     
 2. Executive Summary & Key Metrics
 Analytic overview across a customer interaction base of 10,000 sessions (21,676 event records) during 2026-07-15 to 2026-08-14:              
 (1) Key Metrics:                      
-1,063 Total Orders | 10.63% Overall Conversion Rate | $1,198,361.56 Total Revenue | $1,127.34 Average Order Value (AOV).        
+1,063 Total Orders | 10.63% Overall Conversion Rate | $11,983.62 Total Revenue | $11.27 Average Order Value (AOV).        
 (2) Primary Funnel Bottlenecks:       
 The Purchases stage experienced the highest drop-off rate (69.76% drop-off from Basket Adds to Purchases overall), representing significant cart abandonment across the user journey.
  <img width="1043" height="421" alt="截屏2026-09-06 00 41 33" src="https://github.com/user-attachments/assets/070e23db-eed2-4747-a522-b951effd1b5c" />.       
@@ -78,7 +77,7 @@ Aggregated raw event logs into session-level records (`session_summary`) to eval
 View the full analysis & Python implementation and outputs: [Amazon_Funnel_Analysis.ipynb](./Amazon_Funnel_Analysis.ipynb)
 
 6\. Strategic Recommendations       
-(1) Cart Abandonment Recovery: Address the 69.76% drop-off at the Purchases stage by streamlining checkout UX and launching automated cart abandonment email campaigns, unlocking an estimated $2,766,724.01 in potential revenue recovery.       
+(1) Cart Abandonment Recovery: Address the 69.76% drop-off at the Purchases stage by streamlining checkout UX and launching automated cart abandonment email campaigns, unlocking an estimated $2,766.84 in potential revenue recovery.       
 (2) Budget Optimization: Reallocate marketing spend toward high-ROI channels, prioritizing Organic Search (11.18% CVR) and Sponsored Products(10.61% CVR).       
 (3) Regional Strategy Replication: Benchmark and replicate successful promotional strategies from Wales (11.39% CVR) across lower-performing markets such as North Ireland (9.84% CVR).        
 (4) Category Promotion: Increase homepage visibility and ad placements for top-converting categories like Appliances (11.40% CVR) and Bedding (10.82% CVR).           
